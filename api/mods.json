@@ -1,0 +1,12 @@
+[
+  {
+    "id": "example_mod",
+    "name": "Example Mod",
+    "author": "gmvbuilds-netzien",
+    "version": "1.0",
+    "description": "Meine erste Mod.",
+    "thumbnail": "https://DEINUSERNAME.github.io/portal-mod-server/thumbs/example.png",
+    "download": "https://DEINUSERNAME.github.io/portal-mod-server/mods/example_mod_v1.0.zip",
+    "size_mb": 50
+  }
+]
