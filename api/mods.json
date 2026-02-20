@@ -1,12 +1,18 @@
 [
   {
-    "id": "example_mod",
-    "name": "Portal pro",
-    "author": "gmvbuilds-netzien",
+    "name": "Portal Pro",
     "version": "1.0",
-    "description": "The newest release of Portal Pro",
-    "thumbnail": "https://github.com/gmvbuilds-netizen/portal-mod-server/blob/main/api/mods/thumbs/sewage.png",
-    "download": "https://github.com/gmvbuilds-netizen/portal-mod-server/releases/download/v1.0/cool_mod_v1.0.zip",
-    "size_mb": 50
+    "author": "draffin",
+    "description": "The newest version of portal pro",
+    "download": "https://github.com/DEIN_USERNAME/portal-mods/releases/download/v1.0/MyMod.zip",
+    "thumbnail": "https://raw.githubusercontent.com/DEIN_USERNAME/portal-mods/main/MyMod/thumbnail.png"
+  },
+  {
+    "name": "AnotherMod",
+    "version": "1.2",
+    "author": "Andere Person",
+    "description": "Noch ein Mod",
+    "download": "https://github.com/DEIN_USERNAME/portal-mods/releases/download/v1.2/AnotherMod.zip",
+    "thumbnail": "https://raw.githubusercontent.com/DEIN_USERNAME/portal-mods/main/AnotherMod/thumbnail.png"
   }
 ]
