@@ -1,18 +1,18 @@
 [
   {
     "name": "Portal Pro",
-    "version": "1.1",
+    "version": "newest",
     "author": "draffin",
     "description": "The newest version of portal pro",
     "download": "https://github.com/gmvbuilds-netizen/portal-mod-server/releases/download/v1.0/portal_pro_v1.0.zip",
     "thumbnail": "https://github.com/gmvbuilds-netizen/portal-mod-server/blob/main/api/mods/thumbs/sewage.png"
   },
   {
-    "name": "Lost In Aperture",
-    "version": "1.2",
+    "name": "Still Alive Enhanced",
+    "version": "newest",
     "author": "Andere Person",
-    "description": "Noch ein Mod",
-    "download": "https://github.com/DEIN_USERNAME/portal-mods/releases/download/v1.2/AnotherMod.zip",
+    "description": "The newest version of portal pro",
+    "download": "https://github.com/gmvbuilds-netizen/portal-mod-server/releases/download/stillaliveenhanced/PortalStillAliveEnhanced.zip",
     "thumbnail": "https://raw.githubusercontent.com/DEIN_USERNAME/portal-mods/main/AnotherMod/thumbnail.png"
   }
 ]
