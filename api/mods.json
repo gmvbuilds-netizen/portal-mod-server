@@ -1,12 +1,12 @@
 [
   {
     "id": "example_mod",
-    "name": "Example Mod",
+    "name": "Portal pro",
     "author": "gmvbuilds-netzien",
     "version": "1.0",
-    "description": "Meine erste Mod.",
+    "description": "The newest release of Portal Pro",
     "thumbnail": "https://DEINUSERNAME.github.io/portal-mod-server/thumbs/example.png",
-    "download": "https://DEINUSERNAME.github.io/portal-mod-server/mods/example_mod_v1.0.zip",
+    "download": "https://github.com/gmvbuilds-netizen/portal-mod-server/releases/download/v1.0/cool_mod_v1.0.zip",
     "size_mb": 50
   }
 ]
