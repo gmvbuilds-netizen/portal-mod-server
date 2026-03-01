@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "name": "Portal Still Alive Enhanced",
+    "version": "update",
+    "author": "hazardvpk",
+    "game": "portal2",
+    "description": "new update",
+    "download": "https://archive.org/download/portal-still-alive-enhanced/Portal_Still_Alive_Enhanced.zip",
+    "thumbnails": [
+      "https://media.moddb.com/cache/images/mods/1/67/66760/crop_120x90/08022.mp4.jpg,",
+      "https://media.moddb.com/cache/images/mods/1/67/66760/crop_120x90/20250730225242_1.1.jpg,",
+      "https://media.moddb.com/cache/images/mods/1/67/66760/crop_120x90/20250730225417_1.1.jpg,",
+      "https://media.moddb.com/cache/images/mods/1/67/66760/crop_120x90/20250730225553_1.1.jpg"
+    ]
+  }
+]
