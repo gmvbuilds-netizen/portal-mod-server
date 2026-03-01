@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "name": "Banana Portalgun",
+    "version": "1.0.0",
+    "author": "lincxddd",
+    "game": "portal1",
+    "description": "its just a banana portal gun, idk man",
+    "download": "https://gamebanana.com/dl/1625384",
+    "thumbnails": [
+      "https://images.gamebanana.com/img/ss/mods/530-90_6990c45355527.jpg"
+    ]
+  }
+]
