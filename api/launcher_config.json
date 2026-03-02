@@ -1,0 +1,8 @@
+{
+  "startup_video": {
+    "enabled": true,
+    "url": "https://github.com/gmvbuilds-netizen/portal-mod-serve/releases/download/startup_vid/0302.mp4",
+    "volume": 80,
+    "skip_after": 0
+  }
+}
