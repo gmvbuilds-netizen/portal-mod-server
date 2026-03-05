@@ -16,10 +16,10 @@
     "download": "https://github.com/gmvbuilds-netizen/portal-mod-serve/releases/download/Portal_Pro/Portal.pro.zip"
   },
   {
-    "name": "ERROR",
+    "name": "Portal ERROR Mod",
     "version": "v2.1",
-    "author": "M_K_L",
-    "game": "portal2",
+    "author": "MKL",
+    "game": "portal1",
     "description": "",
     "download": "https://github.com/gmvbuilds-netizen/portal-mod-serve/releases/download/error/Error.zip"
   }
