@@ -6,5 +6,13 @@
     "game": "portal1",
     "description": "new update",
     "download": "https://github.com/gmvbuilds-netizen/portal-mod-serve/releases/download/stillaliveenhanced/Portal.Still.Alive.Enhanced.zip"
+  },
+  {
+    "name": "ERROR",
+    "version": "v2.1",
+    "author": "M_K_L",
+    "game": "portal1",
+    "description": "The final version of ERROR. This version contains every test chamber, including the escape sequence, plus some additions.",
+    "download": "https://github.com/gmvbuilds-netizen/portal-mod-serve/releases/download/error/Error.zip"
   }
 ]
